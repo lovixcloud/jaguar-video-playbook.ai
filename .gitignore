@@ -1,0 +1,11 @@
+build/
+Jaguar-Portable-x64/
+JaguarSetup.exe
+*.exe
+*.o
+*.obj
+*.a
+*.log
+*.ini
+*.mp4
+test_cache/
